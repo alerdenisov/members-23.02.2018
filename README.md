@@ -20,3 +20,4 @@ BDD Members 23.02.2018
 | [@alexei_qwerty](https://t.me/alexei_qwerty) | [Apyr](https://github.com/Apyr) | Хочу вкатиться в это Ваше (отсылка к Толику) обучение машин и прокатиться на хайпе криптовалют | - |
 | [@wsmichel](https://t.me/wsmichel) | [Михаил Ерохов](https://github.com/MixailE) | Creator | - |
 | [@worldxaker](https://t.me/worldxaker) | [Дмитрий Скрыльников](https://github.com/skrylnikov) | JS паграмист | - |
+| [@alerdenisov](https://t.me/alerdenisov) | [Алер Денисов](https://github.com/alerdenisov) | Хайпбист, пуся | - |
